@@ -154,3 +154,5 @@ B20.place(x = 255, y = 490, width = 170)
 
 # ==== Start GUI ====
 gui.mainloop()
+
+# ======
